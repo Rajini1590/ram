@@ -1,5 +1,5 @@
 class A {
  public static void main(String args[]){
-     System.out.println("I Love India TN and Karnataka");
+     System.out.println("I Love India our country");
  }
 }
